@@ -1,0 +1,22 @@
+{
+  "name": "json-event",
+  "version": "0.0.0",
+  "description": "SAX-inspired event-based API for extracting data from JSON object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "parser"
+  ],
+  "author": "Kuu Miyazaki",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jshint": "^1.8.5",
+    "gulp-load-plugins": "^0.6.0"
+  }
+}
